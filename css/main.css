@@ -1,0 +1,22 @@
+p {
+	color: red;
+}
+a {
+	color: black;
+}
+a:hover {
+	color: purple;
+}
+main {
+  border: 1px solid gray;
+  padding: 30px;
+}
+.section-heading {
+	text-transform: uppercase;
+}
+.sub-section {
+	margin-left: 100px;
+}
+h3 {
+	margin-left: 100px;
+}
